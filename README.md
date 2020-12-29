@@ -18,3 +18,6 @@ PCSX5 Windows 7 - 8 - 8.1 - 10 için  üretilen ve C + + ile yazılan Sony PlayS
 
 # İndirme
 PCSX5 şu anda yarı açık kaynaklıdır ve herkes tarafından indiremez fakat PCSX4 herkes tarafından indirebilir. PCSX5 tam açık kaynaka geçmesi 2027 yılını bulabilir fakat şimdide indirilebilir PCSX5'i indirmek için  https://cpbild.co/pcsx5v3476~15790#download şu linke gidebilirsiniz
+
+# Video
+PCSX5 oynanış videosu  YouTube'de mevcuttur. Merak edenler için videoya bu linkten https://www.youtube.com/watch?v=_oBtbiSTX3g&t=1s ulaşabilirsiniz. Videoda Marvel Spider-Man Miles Morales oynanmıştır.
